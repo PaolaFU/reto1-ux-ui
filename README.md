@@ -7,7 +7,7 @@ Explicar qué partes conforman el UX y qué partes el UI de una pagina web
 
 #### Imagen 1
 
-![Pinterest](assets/img/pinterest1.jpg)
+![Pinterest](assets/img/pinterest0.jpg)
 
 
 UX
@@ -26,12 +26,11 @@ UI
  
 #### Imagen 2
 
-  ![Pinterest](assets/img/pinterest.jpg)
+  ![Pinterest](assets/img/pinterest1.jpg)
 
 UX
 
- * La opcion de editar perfil
- 
+ * La opcion de buscar amigos en Pinterest.
  
  * La opción de busqueda de una imagen que el usuario desea.
 
@@ -49,9 +48,7 @@ UX
 
  * Opciones de configuración de cuenta.
 
-
-
- * Crear widget
+ * Opcion de crear widget
 
  
  
