@@ -50,9 +50,6 @@ UX
 
  * Opcion de crear widget
 
- 
- 
- 
  UI
 
  * Los colores del logo rojo y blanco.
@@ -69,7 +66,8 @@ UX
  
  * Diseño de los botones
  
- 
+ #### Imagen 3
+  ![Pinterest](assets/img/pinterest4.jpg)
  UX
  
  * Opcion de enviar imagenes por fb, twitter y whatapp o correo.
@@ -88,10 +86,27 @@ UX
  
  * Diseño donde se escribira el comentario.
  
- * Diseño de menu desplegable para enviar imagen por facebook, twitter,whatapp o correo
+ * Diseño de menu desplegable para enviar imagen por facebook, twitter,whatapp o correo.
  
+ #### imagen 4
  
  UX
  
- * Organizar las imagenes en tableros, con respectivos nombres
+ * La opcion de crear tableros.
+ 
+ * Organizar las imagenes en tableros, con respectivos nombres.
+ 
+ * La opcion  de hacer un  tablero secreto.
+ 
+ * Lista  sugiriendo nombres del tablero.
+ 
+ UI
+ 
+ * Diseño de la lista que aparece como sugerencia de nombres.
+ 
+ * Colores que tiene el boton crear tablero.
+ 
+ * Diseño y color de los botones de crear o cancelar.
+ 
+ * Diseño del lapiz que aparece debajo de la imagen seleccionada.
  
