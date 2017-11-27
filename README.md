@@ -24,6 +24,7 @@ UI
 
 * Diseño del cuadro donde se ingresa correo electronico y contraseña.
  
+
 #### Imagen 2
 
   ![Pinterest](assets/img/pinterest1.jpg)
@@ -66,8 +67,10 @@ UX
  
  * Diseño de los botones
  
+ 
  #### Imagen 3
   ![Pinterest](assets/img/pinterest4.jpg)
+ 
  UX
  
  * Opcion de enviar imagenes por fb, twitter y whatapp o correo.
@@ -88,7 +91,10 @@ UX
  
  * Diseño de menu desplegable para enviar imagen por facebook, twitter,whatapp o correo.
  
+ 
+ 
  #### imagen 4
+ ![Pinterest](assets/img/pinterest5.jpg)
  
  UX
  
