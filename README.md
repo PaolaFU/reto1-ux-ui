@@ -5,6 +5,10 @@ Explicar qué partes conforman el UX y qué partes el UI de una pagina web
 
 ## Pinterest
 
+#### Imagen 1
+
+![Pinterest](assets/img/pinterest1.jpg)
+
 
 UX
 
@@ -20,11 +24,7 @@ UI
 
 * Diseño del cuadro donde se ingresa correo electronico y contraseña.
  
-
-
-
-
-
+#### Imagen 2
 
   ![Pinterest](assets/img/pinterest.jpg)
 
